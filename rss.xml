@@ -1,80 +1,42 @@
-<?xml version="1.0"?>
-<rss version="2.0">
-    <channel>
-        <title>Sora39的博客</title>
-        <link>http://example.com</link>
-        <description>记录日常折腾</description>
-        <language>zh-CN</language>
-        <pubDate>Sun, 28 May 2023 13:09:03 +0800</pubDate>
-        <lastBuildDate>Sun, 28 May 2023 13:09:03 +0800</lastBuildDate>
-        <category>初音未来</category>
-        <category>手办</category>
-        <category>1/6</category>
-        <item>
-            <guid isPermalink="true">http://example.com/2023/05/28/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF-NT%E9%A2%A8%E7%A7%81%E6%9C%8DVer/</guid>
-            <title>初音ミク NT風私服Ver.</title>
-            <link>http://example.com/2023/05/28/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF-NT%E9%A2%A8%E7%A7%81%E6%9C%8DVer/</link>
-            <category>初音未来</category>
-            <category>手办</category>
-            <category>1/6</category>
-            <pubDate>Sun, 28 May 2023 13:09:03 +0800</pubDate>
-            <description><![CDATA[ &lt;h1&gt;初音未來 NT風便服Ver.&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://images.goodsmile.info/cgm/images/product/20230511/14366/115267/large/09ddb1f9c5f13baeb42b2bcf5cde6377.jpg&#34; alt=&#34;初音未來 NT風便服Ver.&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;爽朗便服造型的初音登場！&lt;/strong&gt;&lt;br&gt;&lt;br&gt;
-出自《Character Vocal系列01 初音未來》，便服造型的「初音未來」化身為1/6比例模型。將繪師Rella所繪製清秀爽朗的視覺圖以擁有滿足感的尺寸製成模型。與平時不同印象的便服，令人聯想到初音未來NT的設計。充滿分量感的雙馬尾，以及可從裙子部分透視的健康腿部線條等等，表現出各種看點。將戴著藍芽耳機輕鬆外出的初音帶回家親自鑑賞吧。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2 id=&#34;商品詳情&#34;&gt;商品詳情&lt;/h2&gt;
-&lt;h3 id=&#34;商品名稱&#34;&gt;商品名稱&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;初音未來 NT風便服Ver.&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;作品名稱&#34;&gt;作品名稱&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Character Vocal系列01 初音未來&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;製造商&#34;&gt;製造商&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Good Smile Company&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;分類&#34;&gt;分類&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;其他比例模型&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;價格&#34;&gt;價格&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;25,000日圓 （含稅）&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;發售日期&#34;&gt;發售日期&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;2024/05&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;商品規格&#34;&gt;商品規格&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;塑膠製塗裝完成品・1/6比例模型・附專用台座・全高：約280mm&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;原型製作&#34;&gt;原型製作&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Manzoku Mamoru (Royce Entertainment)&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;色彩&#34;&gt;色彩&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;Ekoshi&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;製作協力&#34;&gt;製作協力&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;GSC製作部&lt;/code&gt;&lt;br&gt;
-&lt;code&gt;本頁所刊登的照片與實際商品會有些許差異。&lt;/code&gt;&lt;br&gt;
-&lt;code&gt;本商品的色彩工程為手工作業，因此在塗裝上會有些許的個體差異。敬請見諒。&lt;/code&gt;&lt;br&gt;
-&lt;code&gt;台座是試製品，與實際的商品可能有異。&lt;/code&gt;&lt;br&gt;
-&lt;code&gt;Art by Rella © Crypton Future Media, INC.&lt;/code&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2023/05/18/hello-world/</guid>
-            <title>Hello World</title>
-            <link>http://example.com/2023/05/18/hello-world/</link>
-            <pubDate>Thu, 18 May 2023 03:30:08 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;Quick-Start&#34;&gt;Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;Create-a-new-post&#34;&gt;Create a new post&lt;/h3&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ hexo new &amp;quot;My New Post&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/writing.html&#34;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Run-server&#34;&gt;Run server&lt;/h3&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ hexo server
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/server.html&#34;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Generate-static-files&#34;&gt;Generate static files&lt;/h3&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ hexo generate
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/generating.html&#34;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;Deploy-to-remote-sites&#34;&gt;Deploy to remote sites&lt;/h3&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$ hexo deploy
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
- ]]></description>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sora39的博客</title>
+    <link>https://blog.sora831.com/</link>
+    <description>记录日常折腾</description>
+    <language>zh-CN</language>
+    <copyright>All rights reserved 2026, Sora39</copyright>
+    <lastBuildDate>Sun, 28 May 2023 05:25:32 GMT</lastBuildDate>
+    <generator>Hexo</generator>
+    <atom:link href="https://blog.sora831.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>初音ミク NT風私服Ver.</title>
+      <link>https://blog.sora831.com/2023/05/28/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF-NT%E9%A2%A8%E7%A7%81%E6%9C%8DVer/</link>
+      <description>
+        <![CDATA[<h1>初音未來 NT風便服Ver.</h1>
+<p><img src="https://images.goodsmile.info/cgm/images/product/20230511/14366/115267/large/09ddb1f9c5f13baeb42b2bcf5c]]>
+      </description>
+      <author>Sora39</author>
+      <category domain="https://blog.sora831.com/categories/%E6%89%8B%E5%8A%9E/">手办</category>
+      <category domain="https://blog.sora831.com/tags/%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5/">初音未来</category>
+      <category domain="https://blog.sora831.com/tags/%E6%89%8B%E5%8A%9E/">手办</category>
+      <category domain="https://blog.sora831.com/tags/1-6/">1/6</category>
+      <pubDate>Sun, 28 May 2023 05:09:03 GMT</pubDate>
+      <content:encoded>
+        <![CDATA[<h1>初音未來 NT風便服Ver.</h1><p><img src="https://images.goodsmile.info/cgm/images/product/20230511/14366/115267/large/09ddb1f9c5f13baeb42b2bcf5cde6377.jpg" alt="初音未來 NT風便服Ver."></p><p><strong>爽朗便服造型的初音登場！</strong><br><br>出自《Character Vocal系列01 初音未來》，便服造型的「初音未來」化身為1/6比例模型。將繪師Rella所繪製清秀爽朗的視覺圖以擁有滿足感的尺寸製成模型。與平時不同印象的便服，令人聯想到初音未來NT的設計。充滿分量感的雙馬尾，以及可從裙子部分透視的健康腿部線條等等，表現出各種看點。將戴著藍芽耳機輕鬆外出的初音帶回家親自鑑賞吧。</p><blockquote><h2 id="商品詳情">商品詳情</h2><h3 id="商品名稱">商品名稱</h3><p><code>初音未來 NT風便服Ver.</code></p><h3 id="作品名稱">作品名稱</h3><p><code>Character Vocal系列01 初音未來</code></p><h3 id="製造商">製造商</h3><p><code>Good Smile Company</code></p><h3 id="分類">分類</h3><p><code>其他比例模型</code></p><h3 id="價格">價格</h3><p><code>25,000日圓 （含稅）</code></p><h3 id="發售日期">發售日期</h3><p><code>2024/05</code></p><h3 id="商品規格">商品規格</h3><p><code>塑膠製塗裝完成品・1/6比例模型・附專用台座・全高：約280mm</code></p><h3 id="原型製作">原型製作</h3><p><code>Manzoku Mamoru (Royce Entertainment)</code></p><h3 id="色彩">色彩</h3><p><code>Ekoshi</code></p><h3 id="製作協力">製作協力</h3><p><code>GSC製作部</code><br><code>本頁所刊登的照片與實際商品會有些許差異。</code><br><code>本商品的色彩工程為手工作業，因此在塗裝上會有些許的個體差異。敬請見諒。</code><br><code>台座是試製品，與實際的商品可能有異。</code><br><code>Art by Rella © Crypton Future Media, INC.</code></p></blockquote>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>https://blog.sora831.com/2023/05/18/hello-world/</link>
+      <description>
+        <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
+      </description>
+      <author>Sora39</author>
+      <pubDate>Wed, 17 May 2023 19:30:08 GMT</pubDate>
+      <content:encoded>
+        <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
+      </content:encoded>
+    </item>
+  </channel>
 </rss>
